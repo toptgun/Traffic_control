@@ -12,7 +12,8 @@
 거리에 있는 CCTV를 이용하여 트래픽에 따른 신호등 제어 및 각종 사건사고 감지
 
 * 유스케이스
-<img src=./doc/usecase.png>
+![usecase](https://github.com/toptgun/Traffic_control/assets/118237074/397e121a-f725-4e2a-b540-5715ce30ca79)
+
 * 흐름도
 
 ![흐름도 1](https://github.com/toptgun/Traffic_control/assets/118237074/e7fff1ea-d044-4b16-b53f-a6c92f53a49d)

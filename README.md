@@ -15,7 +15,7 @@
 <img src=./doc/usecase.png>
 * 흐름도
 
-![diagram](https://github.com/dnfm257/cctv_ctrl/assets/118237074/2e4c1ce2-9671-4f5e-9acc-e2d6bbbaa88c)
+![흐름도 1](https://github.com/toptgun/Traffic_control/assets/118237074/e7fff1ea-d044-4b16-b53f-a6c92f53a49d)
 
 * 시퀀스 다이어그램
 ```mermaid

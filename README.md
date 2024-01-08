@@ -100,4 +100,8 @@ python ./final.py [CPU or GPU] [video_path] # default webcam 0
 ```
 
 * Project Github : https://github.com/dnfm257/cctv_ctrl.git
-* 발표자료 : https://github.com/dnfm257/cctv_ctrl/blob/main/doc/cctv_ctrl_ppt.pptx
+* 관련 영상:https://clipchamp.com/watch/0EiDqAf3Iuv
+            https://clipchamp.com/watch/jSr9qMYNIvi
+
+
+

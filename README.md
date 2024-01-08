@@ -5,7 +5,6 @@
 
 ## Team project
 
-### Team: Watchdogs
 ### <<프로젝트 요약>>
 #### 프로젝트 주제
 * 다목적 CCTV 상황제어
@@ -100,16 +99,5 @@ pip install ultralytics
 python ./final.py [CPU or GPU] [video_path] # default webcam 0
 ```
 
-
-
-## 팀
-* Members
-  | Name | Role |
-  |----|----|
-  | 장석환 | edge_device_control, 신호등 STM32 제어 |
-  | 김승현 | AI_modeling, 트래픽감지 ai 개발 및 학습 |
-  | 김형은 | 문서 제작 및 ppt제작,발표 |
-  | 서규승 | AI_modeling, 사고감지 ai 학습 및 project maneger |
-  | 조성우 | edge_device_control, 신호등 및 raspberry cam제어 |
 * Project Github : https://github.com/dnfm257/cctv_ctrl.git
 * 발표자료 : https://github.com/dnfm257/cctv_ctrl/blob/main/doc/cctv_ctrl_ppt.pptx
